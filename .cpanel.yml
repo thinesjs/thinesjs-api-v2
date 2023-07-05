@@ -3,6 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/tjsserve/public_html/api
     - export REPOPATH=/home/tjsserve/repo/thinesjs-api-v2
-    - /bin/cp -R public/build $DEPLOYPATH
-    - /bin/cp -R public/images $DEPLOYPATH
-    - /bin/cp -R public/vendor $DEPLOYPATH
+    # - /bin/cp -R public/build $DEPLOYPATH
+    # - /bin/cp -R public/images $DEPLOYPATH
+    # - /bin/cp -R public/vendor $DEPLOYPATH
