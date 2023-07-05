@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['thinesjaishankar.coom', '*.thinesjaishankar.com'],
+    'allowed_origins' => ['thinesjaishankar.com', '*.thinesjaishankar.com'],
 
     'allowed_origins_patterns' => [],
 
